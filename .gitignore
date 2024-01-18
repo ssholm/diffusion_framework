@@ -1,0 +1,4 @@
+# Custom ignores
+.DS_Store
+__pycache__/
+data/
